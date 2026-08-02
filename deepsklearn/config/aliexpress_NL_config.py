@@ -37,7 +37,7 @@ search_id,categorical_1,categorical_2,categorical_3,categorical_4,categorical_5,
 
 '''
 
-##test data sample
+##tests data sample
 '''
 search_id,categorical_1,categorical_2,categorical_3,categorical_4,categorical_5,categorical_6,categorical_7,categorical_8,categorical_9,categorical_10,categorical_11,categorical_12,categorical_13,categorical_14,categorical_15,categorical_16,numerical_1,numerical_2,numerical_3,numerical_4,numerical_5,numerical_6,numerical_7,numerical_8,numerical_9,numerical_10,numerical_11,numerical_12,numerical_13,numerical_14,numerical_15,numerical_16,numerical_17,numerical_18,numerical_19,numerical_20,numerical_21,numerical_22,numerical_23,numerical_24,numerical_25,numerical_26,numerical_27,numerical_28,numerical_29,numerical_30,numerical_31,numerical_32,numerical_33,numerical_34,numerical_35,numerical_36,numerical_37,numerical_38,numerical_39,numerical_40,numerical_41,numerical_42,numerical_43,numerical_44,numerical_45,numerical_46,numerical_47,numerical_48,numerical_49,numerical_50,numerical_51,numerical_52,numerical_53,numerical_54,numerical_55,numerical_56,numerical_57,numerical_58,numerical_59,numerical_60,numerical_61,numerical_62,numerical_63,click,conversion
 3,8,0,0,0,8,3,25,0,0,1,0,0,0,0,1,0,1.0,0.11111099999999999,0.0,0.666667,0.666667,1.0,0.333333,0.0,0.26645,0.134375,0.11005,0.100925,0.055875,0.0497,0.04545,0.05725,0.06175,0.103225,0.4669,0.30151,0.0,0.12072999999999999,0.0,0.29488400000000003,0.21345,0.502273,0.0,0.51,0.43,0.22082,0.572446,0.056521,0.02783,0.619324,0.59353,0.085526,0.022908,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.591622,0.0,0.0,0.0,0.722715,0.668775,0.788233,0.2079,0.331495,0.324986,0.107731,0,0,0,0.17614000000000002,0.0,0.0,0,0
