@@ -1,7 +1,9 @@
-numpy==1.23.5
-pandas==1.5.3
-scikit_learn==1.2.1
+numpy==2.5.1
+pandas==3.0.5
+pyarrow==21.0.0
+pyspark==3.5.0
+scikit_learn==1.2.2
+streamlit==1.50.0
 toml==0.10.2
 torch==2.0.1
-torch==2.0.0
-xxhash==3.2.0
+xxhash==3.7.0
