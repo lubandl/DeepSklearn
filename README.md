@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/license/guopanjin/deepsklearn" alt="License">
   </a>
   <a href="https://github.com/guopanjin/deepsklearn">
-    <img src="https://img.shields.io/badge/Version-1.0.0-orange" alt="Version">
+    <img src="https://img.shields.io/badge/Version-1.0.1-orange" alt="Version">
   </a>
 </p>
 
